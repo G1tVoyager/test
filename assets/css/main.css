@@ -717,6 +717,7 @@ input[type="radio"]+label:before {
 	text-decoration: none;
 	border-bottom: none;
 	position: relative;
+	color: #00ffff
 }
 
 .icon:before {
