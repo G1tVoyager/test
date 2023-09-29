@@ -717,7 +717,6 @@ input[type="radio"]+label:before {
 	text-decoration: none;
 	border-bottom: none;
 	position: relative;
-	color: #00ffff
 }
 
 .icon:before {
@@ -1414,6 +1413,7 @@ body.is-preload #bg:before {
 	line-height: 5.5rem;
 	border: solid 1px #ffffff;
 	border-radius: 100%;
+	color: #00ffff
 }
 
 #header .logo .icon:before {
